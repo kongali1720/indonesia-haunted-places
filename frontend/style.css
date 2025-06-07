@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #000;
+  color: lime;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+#map {
+  height: 90vh;
+  width: 100%;
+  border: 3px solid lime;
+  box-shadow: 0 0 10px lime;
+}
