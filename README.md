@@ -53,11 +53,30 @@ git clone https://github.com/kongali1720/indonesia-haunted-places.git
 
 ---
 
+haunted_map_project/
+
+├── backend/
+
+│   ├── app.py            ← Flask API
+
+│   ├── db.sqlite3        ← SQLite DB
+
+│   └── haunted_data.sql  ← SQL dump (yang sudah kamu buat)
+
+├── frontend/
+
+│   ├── index.html        ← Peta interaktif
+
+│   └── style.css         ← Styling
+
+└── README.md
+
+
 <div align="center">
   
 ## 📢 Disclaimer
 
-Panduan ini dibuat untuk edukasi dan meningkatkan kesadaran keamanan digital. Gunakan pengetahuan ini secara bertanggung jawab.
+Panduan ini dibuat untuk edukasi dan mengajak si setan, pocong dan dedemit lainnya  sadar akan keberadaan tools digital. Harusnya si Setan c.s gunain pengetahuan ini secara bertanggung jawab.
 
 </div>
 
