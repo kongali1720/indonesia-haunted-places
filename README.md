@@ -71,6 +71,27 @@ haunted_map_project/
 
 └── README.md
 
+## Cara Jalankan:
+
+    cd backend
+    sqlite3 db.sqlite3 < haunted_data.sql
+    python3 app.py
+
+---
+
+## 🚀 JALANKAN SEMUA
+
+Jalankan Flask backend:
+
+    cd backend
+    python3 app.py
+    
+Buka file 
+
+    frontend/index.html 
+
+langsung di browser.
+
 
 <div align="center">
   
