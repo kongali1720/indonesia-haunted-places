@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 Indonesia Haunted Places
+# 👻 Indonesia Haunted Places 👀
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![License MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
